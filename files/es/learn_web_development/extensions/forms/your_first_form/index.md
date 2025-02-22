@@ -275,7 +275,7 @@ En el lado del servidor, la secuencia de comandos de la URL «`/my-handling-form
 
 ¡Enhorabuena!, has creado tu primer formulario web. Debería verse así:
 
-```html hidden
+```html
 <form action="/my-handling-form-page" method="post">
   <div>
     <label for="name">Nombre:</label>
@@ -295,7 +295,7 @@ En el lado del servidor, la secuencia de comandos de la URL «`/my-handling-form
 </form>
 ```
 
-```css hidden
+```css
 form {
   /* Just to center the form on the page */
   margin: 0 auto;
